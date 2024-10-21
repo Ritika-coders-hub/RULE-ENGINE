@@ -8,6 +8,8 @@ Key benefits:
 Performance: Optimized rule execution.
 Flexibility: Allows handling dynamic and complex business logic.
 Maintainability: Clear structure for debugging and modifications.
+![Ruleengine image](https://github.com/user-attachments/assets/0ae104dc-0d56-443a-a631-0bcb55838d57)
+
 
 ## Dependency Management
 
