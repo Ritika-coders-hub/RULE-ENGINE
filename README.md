@@ -8,8 +8,7 @@ Key benefits:
 Performance: Optimized rule execution.
 Flexibility: Allows handling dynamic and complex business logic.
 Maintainability: Clear structure for debugging and modifications.
-https://github.com/Ritika-coders-hub/RULE-ENGINE/blob/32199f1d8620a696d37441d8b5287a9ed5aa5f61/Ruleengine%20image.webp
-
+[image alt](https://github.com/Ritika-coders-hub/RULE-ENGINE/blob/32199f1d8620a696d37441d8b5287a9ed5aa5f61/Ruleengine%20image.webp)
 ## Dependency Management
 
 The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
